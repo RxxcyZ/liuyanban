@@ -7,6 +7,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>留言板</title>
 	<meta name="keywords" content="苏羽羽留言板">
 	<meta name="description" content="苏羽羽个人留言板。简单而优雅">
